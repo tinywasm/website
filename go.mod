@@ -29,8 +29,9 @@ require (
 	github.com/tinywasm/devflow v0.2.8 // indirect
 	github.com/tinywasm/fetch v0.1.17 // indirect
 	github.com/tinywasm/gobuild v0.0.24 // indirect
-	github.com/tinywasm/mcpserve v0.0.20 // indirect
+	github.com/tinywasm/mcpserve v0.0.21 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
+	github.com/tinywasm/sse v0.0.10 // indirect
 	github.com/tinywasm/time v0.3.1 // indirect
 	github.com/tinywasm/unixid v0.2.22 // indirect
 	github.com/tinywasm/wizard v0.0.22 // indirect
