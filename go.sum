@@ -30,8 +30,8 @@ github.com/tinywasm/context v0.0.12 h1:F0P6QURIGZaPaxDxZEGZovGeGJ4L4S7Smrju0zr/V
 github.com/tinywasm/context v0.0.12/go.mod h1:MUoF0JxU5/ekbOUrdtSjFO6xHd95MCAYBDWqwLIxSOg=
 github.com/tinywasm/crudp v0.2.11 h1:FQFRFD7j22Ebks8Ws3+yb6ILeYELspc/090jdf2PxI0=
 github.com/tinywasm/crudp v0.2.11/go.mod h1:yZup2wR3V0YyWCFfvSS2Txk3FlcmsMw8NooCiPxd4KA=
-github.com/tinywasm/devflow v0.2.8 h1:V8/ZyglSNs30Q+7ut9bdiRZFsoLw5r02+WqckIF+SpI=
-github.com/tinywasm/devflow v0.2.8/go.mod h1:duQYq77ZfPGgrenPs2TyiwXPZ8QBWMC7YACHGJgus4w=
+github.com/tinywasm/devflow v0.2.14 h1:pbhp2UYUI2mzx36O8ORR9o+ziAv/dljdpLYQFXRtakQ=
+github.com/tinywasm/devflow v0.2.14/go.mod h1:ltxhnezvgmFb35LuUX75yai261a/rvYwI612Bi9RGbY=
 github.com/tinywasm/dom v0.5.6 h1:woC5agamzHVAGzaFxITwCZehDNcJDpluH2Y7zUFcypk=
 github.com/tinywasm/dom v0.5.6/go.mod h1:cHDHDVjaK49UDsAglByYfVVSMoQXH1hTrbhUT9Uj8H8=
 github.com/tinywasm/fetch v0.1.17 h1:FKdBinOmxC2h5+PSZDd4VoFdSutSHL+YeIh667bI8xU=
@@ -58,7 +58,9 @@ github.com/tinywasm/wizard v0.0.22 h1:aoH9AgcE8ePyvUdTKy51AD6XyHZgi4CU7GrdFFT0o7
 github.com/tinywasm/wizard v0.0.22/go.mod h1:TXjAtXdjRSd74yo1irKdyqyYorTq1TkSqZ5A3Jpp4aQ=
 github.com/zalando/go-keyring v0.2.6 h1:r7Yc3+H+Ux0+M72zacZoItR3UDxeWfKTcabvkI8ua9s=
 github.com/zalando/go-keyring v0.2.6/go.mod h1:2TCrxYrbUNYfNS/Kgy/LSrkSQzZ5UPVH85RwfczwvcI=
-golang.org/x/sys v0.40.0 h1:DBZZqJ2Rkml6QMQsZywtnjnnGvHza6BTfYFWY9kjEWQ=
-golang.org/x/sys v0.40.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
+golang.org/x/sys v0.41.0 h1:Ivj+2Cp/ylzLiEU89QhWblYnOE9zerudt9Ftecq2C6k=
+golang.org/x/sys v0.41.0/go.mod h1:OgkHotnGiDImocRcuBABYBEXf8A9a87e/uXjp9XT3ks=
+golang.org/x/term v0.40.0 h1:36e4zGLqU4yhjlmxEaagx2KuYbJq3EwY8K943ZsHcvg=
+golang.org/x/term v0.40.0/go.mod h1:w2P8uVp06p2iyKKuvXIm7N/y0UCRt3UfJTfZ7oOpglM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

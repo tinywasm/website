@@ -19,7 +19,7 @@ require (
 	github.com/tinywasm/client v0.5.50 // indirect
 	github.com/tinywasm/context v0.0.12 // indirect
 	github.com/tinywasm/crudp v0.2.11 // indirect
-	github.com/tinywasm/devflow v0.2.8 // indirect
+	github.com/tinywasm/devflow v0.2.14 // indirect
 	github.com/tinywasm/fetch v0.1.17 // indirect
 	github.com/tinywasm/gobuild v0.0.24 // indirect
 	github.com/tinywasm/mcp v0.0.0-20260222182815-eed752284ce7 // indirect
@@ -30,5 +30,6 @@ require (
 	github.com/tinywasm/unixid v0.2.22 // indirect
 	github.com/tinywasm/wizard v0.0.22 // indirect
 	github.com/zalando/go-keyring v0.2.6 // indirect
-	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/term v0.40.0 // indirect
 )
