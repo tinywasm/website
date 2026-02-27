@@ -25,7 +25,7 @@ require (
 	github.com/tinywasm/mcp v0.0.0-20260222182815-eed752284ce7 // indirect
 	github.com/tinywasm/mcpserve v0.0.24 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
-	github.com/tinywasm/sse v0.0.10 // indirect
+	github.com/tinywasm/sse v0.0.11 // indirect
 	github.com/tinywasm/time v0.3.1 // indirect
 	github.com/tinywasm/unixid v0.2.22 // indirect
 	github.com/tinywasm/wizard v0.0.22 // indirect
