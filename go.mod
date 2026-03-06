@@ -23,7 +23,7 @@ require (
 	github.com/tinywasm/fetch v0.1.17 // indirect
 	github.com/tinywasm/gobuild v0.0.24 // indirect
 	github.com/tinywasm/mcp v0.0.11 // indirect
-	github.com/tinywasm/mcpserve v0.0.29 // indirect
+	github.com/tinywasm/mcpserve v0.0.31 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
 	github.com/tinywasm/sse v0.0.11 // indirect
 	github.com/tinywasm/time v0.3.1 // indirect
