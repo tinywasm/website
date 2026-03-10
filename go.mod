@@ -19,9 +19,10 @@ require (
 	github.com/tinywasm/client v0.5.50 // indirect
 	github.com/tinywasm/context v0.0.12 // indirect
 	github.com/tinywasm/crudp v0.2.11 // indirect
-	github.com/tinywasm/devflow v0.2.22 // indirect
+	github.com/tinywasm/devflow v0.3.4 // indirect
 	github.com/tinywasm/fetch v0.1.22 // indirect
 	github.com/tinywasm/gobuild v0.0.24 // indirect
+	github.com/tinywasm/gorun v0.0.22 // indirect
 	github.com/tinywasm/json v0.1.7 // indirect
 	github.com/tinywasm/mcp v0.0.19 // indirect
 	github.com/tinywasm/mcpserve v0.0.31 // indirect
