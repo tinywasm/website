@@ -4,7 +4,7 @@ go 1.25.2
 
 require (
 	github.com/tinywasm/dom v0.5.6
-	github.com/tinywasm/fmt v0.18.17
+	github.com/tinywasm/fmt v0.18.18
 	github.com/tinywasm/site v0.0.46
 )
 
@@ -19,7 +19,7 @@ require (
 	github.com/tinywasm/client v0.5.50 // indirect
 	github.com/tinywasm/context v0.0.12 // indirect
 	github.com/tinywasm/crudp v0.2.11 // indirect
-	github.com/tinywasm/devflow v0.4.12 // indirect
+	github.com/tinywasm/devflow v0.4.13 // indirect
 	github.com/tinywasm/fetch v0.1.22 // indirect
 	github.com/tinywasm/gobuild v0.0.24 // indirect
 	github.com/tinywasm/gorun v0.0.22 // indirect
