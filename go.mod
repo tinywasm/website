@@ -4,7 +4,7 @@ go 1.25.2
 
 require (
 	github.com/tinywasm/dom v0.5.6
-	github.com/tinywasm/fmt v0.21.0
+	github.com/tinywasm/fmt v0.21.1
 	github.com/tinywasm/site v0.0.46
 )
 
