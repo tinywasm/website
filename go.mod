@@ -17,19 +17,21 @@ require (
 	github.com/tinywasm/assetmin v0.2.1 // indirect
 	github.com/tinywasm/binary v0.5.11 // indirect
 	github.com/tinywasm/client v0.5.50 // indirect
-	github.com/tinywasm/context v0.0.12 // indirect
+	github.com/tinywasm/context v0.0.18 // indirect
 	github.com/tinywasm/crudp v0.2.11 // indirect
 	github.com/tinywasm/devflow v0.4.14 // indirect
-	github.com/tinywasm/fetch v0.1.22 // indirect
+	github.com/tinywasm/fetch v0.1.23 // indirect
+	github.com/tinywasm/form v0.2.0 // indirect
 	github.com/tinywasm/gobuild v0.0.24 // indirect
 	github.com/tinywasm/gorun v0.0.23 // indirect
 	github.com/tinywasm/json v0.4.0 // indirect
-	github.com/tinywasm/mcp v0.0.19 // indirect
+	github.com/tinywasm/mcp v0.1.0 // indirect
 	github.com/tinywasm/mcpserve v0.0.31 // indirect
+	github.com/tinywasm/orm v0.6.0 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
 	github.com/tinywasm/sse v0.0.12 // indirect
 	github.com/tinywasm/time v0.3.1 // indirect
-	github.com/tinywasm/unixid v0.2.22 // indirect
+	github.com/tinywasm/unixid v0.2.23 // indirect
 	github.com/tinywasm/wizard v0.0.22 // indirect
 	github.com/zalando/go-keyring v0.2.6 // indirect
 	golang.org/x/sys v0.41.0 // indirect
