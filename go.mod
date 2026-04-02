@@ -25,7 +25,7 @@ require (
 	github.com/tinywasm/gobuild v0.0.24 // indirect
 	github.com/tinywasm/gorun v0.0.23 // indirect
 	github.com/tinywasm/json v0.4.0 // indirect
-	github.com/tinywasm/mcp v0.1.0 // indirect
+	github.com/tinywasm/mcp v0.1.1 // indirect
 	github.com/tinywasm/mcpserve v0.0.31 // indirect
 	github.com/tinywasm/orm v0.6.0 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
