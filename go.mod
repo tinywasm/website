@@ -3,7 +3,7 @@ module github.com/tinywasm/website
 go 1.25.2
 
 require (
-	github.com/tinywasm/dom v0.6.0
+	github.com/tinywasm/dom v0.7.0
 	github.com/tinywasm/fmt v0.23.2
 	github.com/tinywasm/site v0.0.46
 )
