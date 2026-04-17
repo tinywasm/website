@@ -27,7 +27,7 @@ require (
 	github.com/tinywasm/json v0.5.1 // indirect
 	github.com/tinywasm/mcp v0.1.3 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
-	github.com/tinywasm/time v0.4.0 // indirect
+	github.com/tinywasm/time v0.5.0 // indirect
 	github.com/tinywasm/unixid v0.2.23 // indirect
 	github.com/tinywasm/wizard v0.0.23 // indirect
 	github.com/zalando/go-keyring v0.2.6 // indirect
