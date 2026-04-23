@@ -21,7 +21,7 @@ require (
 	github.com/tinywasm/crudp v0.2.11 // indirect
 	github.com/tinywasm/devflow v0.4.18 // indirect
 	github.com/tinywasm/fetch v0.1.23 // indirect
-	github.com/tinywasm/form v0.2.1 // indirect
+	github.com/tinywasm/form v0.2.2 // indirect
 	github.com/tinywasm/gobuild v0.0.25 // indirect
 	github.com/tinywasm/gorun v0.0.23 // indirect
 	github.com/tinywasm/json v0.5.2 // indirect
