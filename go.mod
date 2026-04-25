@@ -16,7 +16,7 @@ require (
 	github.com/tdewolff/parse/v2 v2.8.5 // indirect
 	github.com/tinywasm/assetmin v0.2.3 // indirect
 	github.com/tinywasm/binary v0.5.11 // indirect
-	github.com/tinywasm/client v0.6.0 // indirect
+	github.com/tinywasm/client v0.6.1 // indirect
 	github.com/tinywasm/context v0.0.18 // indirect
 	github.com/tinywasm/crudp v0.2.11 // indirect
 	github.com/tinywasm/devflow v0.4.19 // indirect
@@ -28,6 +28,7 @@ require (
 	github.com/tinywasm/mcp v0.1.9 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
 	github.com/tinywasm/time v0.5.0 // indirect
+	github.com/tinywasm/tinygo v0.0.7 // indirect
 	github.com/tinywasm/unixid v0.2.23 // indirect
 	github.com/tinywasm/wizard v0.0.23 // indirect
 	github.com/zalando/go-keyring v0.2.6 // indirect
