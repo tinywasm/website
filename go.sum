@@ -24,8 +24,8 @@ github.com/tinywasm/assetmin v0.2.4 h1:khlOx4qc4ZSMNiYgP05AipMOOrRN7KzIj28PROSHl
 github.com/tinywasm/assetmin v0.2.4/go.mod h1:SWZNMq/LNLY3u2+s8dhAyiGjZ8+OxtgzRmSMpajnHOw=
 github.com/tinywasm/binary v0.5.11 h1:qZaUIXToSA0iNqkc+eqpGrFdEI44v/HfSDr2fFIv5CE=
 github.com/tinywasm/binary v0.5.11/go.mod h1:I8LJJ/xHcNgwxLgUKhGoKDGIQF8VURtc8lEDi2PR4vk=
-github.com/tinywasm/client v0.6.2 h1:Y/mguSTRjUk+FHE7LkZLPRQTzII9QXR1lvheLA5cVxI=
-github.com/tinywasm/client v0.6.2/go.mod h1:px/YIGQggQA36pjtP7XD3xP+ttm2WHEgLgvOM1vJ5VM=
+github.com/tinywasm/client v0.6.3 h1:NZb2NuDygFd+NgVezFiLdNZGnIFQTIXi5ap4vuHu43M=
+github.com/tinywasm/client v0.6.3/go.mod h1:px/YIGQggQA36pjtP7XD3xP+ttm2WHEgLgvOM1vJ5VM=
 github.com/tinywasm/context v0.0.18 h1:uKeiAFo6L/PikGSbUu+xcyELGoa4kXomDNwJOlhxrUE=
 github.com/tinywasm/context v0.0.18/go.mod h1:3AHZHMiiVZljEGNuYMaLM2OXdZ3bXjoMCmqx3sEGXsA=
 github.com/tinywasm/crudp v0.2.11 h1:FQFRFD7j22Ebks8Ws3+yb6ILeYELspc/090jdf2PxI0=
