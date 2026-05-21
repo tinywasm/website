@@ -29,7 +29,7 @@ require (
 	github.com/tinywasm/mcp v0.1.9 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
 	github.com/tinywasm/time v0.5.0 // indirect
-	github.com/tinywasm/tinygo v0.0.9 // indirect
+	github.com/tinywasm/tinygo v0.0.10 // indirect
 	github.com/tinywasm/unixid v0.2.23 // indirect
 	github.com/tinywasm/wizard v0.0.23 // indirect
 	github.com/zalando/go-keyring v0.2.6 // indirect
