@@ -16,7 +16,7 @@ require (
 	github.com/tdewolff/parse/v2 v2.8.5 // indirect
 	github.com/tinywasm/assetmin v0.3.4 // indirect
 	github.com/tinywasm/binary v0.5.11 // indirect
-	github.com/tinywasm/client v0.6.8 // indirect
+	github.com/tinywasm/client v0.6.9 // indirect
 	github.com/tinywasm/context v0.0.18 // indirect
 	github.com/tinywasm/crudp v0.2.11 // indirect
 	github.com/tinywasm/css v0.1.0 // indirect
@@ -25,6 +25,7 @@ require (
 	github.com/tinywasm/form v0.2.4 // indirect
 	github.com/tinywasm/gobuild v0.0.25 // indirect
 	github.com/tinywasm/gorun v0.0.23 // indirect
+	github.com/tinywasm/js v0.0.2 // indirect
 	github.com/tinywasm/json v0.5.2 // indirect
 	github.com/tinywasm/mcp v0.1.9 // indirect
 	github.com/tinywasm/rbac v0.0.1 // indirect
